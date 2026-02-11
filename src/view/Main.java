@@ -1,7 +1,7 @@
-package controller;
+package view;
 
 import java.util.Scanner;
-import view.Fatorial;
+import controller.Fatorial;
 
 public class Main {
 
